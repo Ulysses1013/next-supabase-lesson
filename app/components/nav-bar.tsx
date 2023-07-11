@@ -23,7 +23,7 @@ export default function NavBar() {
           Streaming SR
         </Link>
         <Link
-          href="/auths"
+          href="/auth"
           className="rounded bg-gray-700 px-2 py-1 text-white hover:bg-gray-500"
         >
           Auth with CRUD
